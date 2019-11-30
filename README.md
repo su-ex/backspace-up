@@ -10,5 +10,5 @@ Brings back the Backspace shortcut to Nautilus
 ## Installation
 
 ```shell
-wget -qO- https://raw.githubusercontent.com/7aman/backspace-up/master/install.sh | bash
+wget -qO- https://raw.githubusercontent.com/su-ex/backspace-up/master/install.sh | bash
 ```
